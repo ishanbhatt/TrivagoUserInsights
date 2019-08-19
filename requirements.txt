@@ -1,0 +1,7 @@
+Flask>=1.0.2
+flask-restplus==0.12.1
+pandas==0.23.4
+gunicorn==19.9.0
+
+# For load testing
+locustio==0.11.0

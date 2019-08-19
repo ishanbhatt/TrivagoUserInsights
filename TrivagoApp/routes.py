@@ -1,0 +1,2 @@
+from TrivagoApp import AmenitiesRoute
+from TrivagoApp import HotelsRoute
